@@ -2,6 +2,7 @@
 % Olivia Dyer
 % winter 2025
 %% setup
+%steph copy
 clear all
 close all
 clc
