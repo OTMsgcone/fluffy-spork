@@ -3,6 +3,7 @@
 % winter 2025
 %% setup
 %steph copy
+%test test
 clear all
 close all
 clc
